@@ -9,13 +9,13 @@ You need to install dependency
 npm install or yarn install
 ```
 
-## Running for develop mode. serve with hot reload at localhost:8080
+### Running for develop mode. serve with hot reload at localhost:8080
 
 ```
 npm run dev or yarn dev
 ```
 
-## build for production with minification
+### build for production with minification
 
 ```
 npm run build-all or yarn build-all
